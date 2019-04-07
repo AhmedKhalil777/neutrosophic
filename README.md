@@ -6,9 +6,7 @@ This project aims to provide an open-source Python package to be utilized in Neu
 
 ## Publications
 
-- **Haitham A. El-Ghareeb: Novel Open Source Python Neutrosophic Package, Neutrosophic  Sets and Systems, vol. 25, 2019, pp. 136-160.  DOI: 10.5281/zenodo.2631514** Read 
-
-  [online]: http://fs.unm.edu/NSS/NovelOpenSourcePython.pdf
+- **Haitham A. El-Ghareeb: Novel Open Source Python Neutrosophic Package, Neutrosophic  Sets and Systems, vol. 25, 2019, pp. 136-160.  DOI: 10.5281/zenodo.2631514** Read online: http://fs.unm.edu/NSS/NovelOpenSourcePython.pdf
 
   
 
